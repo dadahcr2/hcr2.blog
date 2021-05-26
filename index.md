@@ -1,6 +1,6 @@
 
 
-***
+
 
 25 May
 - memes.hcr2.info: new host and formatting
@@ -93,5 +93,5 @@
 
 Prior to this logs were not recorded...
 <a name="bottom"> </a>
-***
+
 
