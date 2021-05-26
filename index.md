@@ -92,6 +92,6 @@
 - hcr2.info: added "*public event setup*" section
 
 Prior to this logs were not recorded...
-
+<a name="bottom"> </a>
 ***
 
