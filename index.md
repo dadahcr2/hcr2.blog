@@ -91,7 +91,7 @@
 - tw.hcr2.info / vehicles.hcr2.info: added 3D animated gifs
 - hcr2.info: added "*public event setup*" section
 
-Prior to this logs were not recorded...
 <a name="bottom"> </a>
+Prior to this logs were not recorded...
 
 
