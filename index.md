@@ -1,7 +1,7 @@
 
 
 26 May  
-- <hcr2.info>: new PE
+- hcr2.info: new PE
 
 25 May  
 - memes/tips/blog/chests/faq.hcr2.info: new host and formatting
