@@ -1,4 +1,8 @@
 
+30 May  
+- hcr2.info:
+	- TE setups
+	
 27 May
 - hcr2.info: 
 	- PE setups 
